@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\obj\Debug\ContactList.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\obj\Debug\ContactList.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pc\Desktop\contacts\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
